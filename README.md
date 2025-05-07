@@ -1,6 +1,6 @@
 # ActiveHAI
 
-This is the repository of IJCAI'2025 submission paper #101: "ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions"
+Code for our IJCAI 2025 paper: "ActiveHAI: Active Collection based Human-AI Diagnosis with Limited Expert Predictions"
 
 ## Installation：
 
